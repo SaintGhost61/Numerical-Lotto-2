@@ -1,0 +1,10 @@
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\bin\Debug\Numerical LOTTO.exe.config
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\bin\Debug\Numerical LOTTO.exe
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\bin\Debug\Numerical LOTTO.pdb
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical LOTTO.csproj.AssemblyReference.cache
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical_LOTTO.Form1.resources
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical_LOTTO.Properties.Resources.resources
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical LOTTO.csproj.GenerateResource.cache
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical LOTTO.csproj.CoreCompileInputs.cache
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical LOTTO.exe
+C:\Users\halit\Desktop\Numerical LOTTO\Numerical LOTTO\obj\Debug\Numerical LOTTO.pdb
